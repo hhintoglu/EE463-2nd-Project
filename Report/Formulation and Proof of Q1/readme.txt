@@ -1,0 +1,1 @@
+latex code is written to obtain required formulation and calculation, images are added to dummy word file.
